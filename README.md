@@ -1,4 +1,4 @@
-# Todo App
+# To-DO App
 
 ## **Live Version**
 - [DEMO LINK](https://priemssonia.github.io/react-todo-app/)
